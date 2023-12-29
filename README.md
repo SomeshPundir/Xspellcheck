@@ -1,0 +1,2 @@
+# Xspellcheck
+spell checking
